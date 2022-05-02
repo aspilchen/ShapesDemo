@@ -1,0 +1,16 @@
+{
+  "shapes": [
+    {
+      "top": 0,
+      "left": 30,
+      "width": 30,
+      "height": 15,
+      "background": "solid",
+      "backgroundColor": "yellow",
+      "line": "char",
+      "lineChar": "*",
+      "fill": "wrapper",
+      "fillText": "Code Monkey get up get coffee. Code Monkey go to job. Code Monkey have boring meeting with boring manager Rob. Rob say Code Monkey very diligent, but his output stink. His code not functional or elegant. What do Code Monkey think? Code Monkey think maybe manager want to write goddamn login page himself. Code Monkey not say it out loud. Code Monkey not crazy just proud."
+    }
+  ]
+}
